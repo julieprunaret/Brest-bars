@@ -43,7 +43,7 @@ function SearchResults() {
           type="button"
           className="flex gap-2 rounded-[4px] px-4 py-2 bg-[#2c2c2c] text-sm font-bold text-[color:var(--light-elements)] transition-transform hover:scale-105 m-auto"
         >
-          Voir plus
+          Voir plus ({maxDatas})
         </button>
       </ul>
     </div>
