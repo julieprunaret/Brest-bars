@@ -7,7 +7,7 @@ function NavBar() {
         <span className="pr-2">🍻</span>
         <p>
           Brest{" "}
-          <span className="text-transparent bg-clip-text bg-gradient-to-r from-[--pink] to-[--primary-color] ...]">
+          <span className="text-transparent bg-clip-text bg-gradient-to-r from-[--pink] to-[--primary-color] ...">
             bar
           </span>
         </p>

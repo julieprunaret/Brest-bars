@@ -10,7 +10,7 @@ function FilterItem({ icon, title }) {
       <span className="flex aspect-square w-full items-center justify-center rounded-lg bg-[#2c2c2c] text-4xl">
         {icon}
       </span>
-      <p>{title}</p>
+      <p className="text-[color:var(--light-elements)]">{title}</p>
     </button>
   );
 }
