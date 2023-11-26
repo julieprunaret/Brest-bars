@@ -1,3 +1,5 @@
+import Button from "./Button";
+
 function NavBar() {
   return (
     <header className="z-20 flex w-full flex-col items-start gap-4 bg-[color:var(--bg-color)] p-4 text-[28px] shadow-md transition-colors lg:flex-row lg:items-center lg:justify-between">
@@ -10,6 +12,7 @@ function NavBar() {
           </span>
         </p>
       </div>
+      <Button title="Faire une demande" icon="🙋‍♀️" isReverse={false} />
     </header>
   );
 }
