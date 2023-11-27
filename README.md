@@ -1,4 +1,7 @@
 # Bars in Brest
+
+Challenge by Lumy ~ reproduce that website : https://brest.bar/
+
 thanks to change the variable REACT_APP_MAPBOX_TOKEN in .env by your own key  [Create your own key here](https://www.mapbox.com/) 
 
 ![Screenshot 2023-11-27 at 09-19-59 React App](https://github.com/julieprunaret/Brest-bars/assets/87066549/2d3a9273-84da-47af-8c04-f9e6435ea4b3)
